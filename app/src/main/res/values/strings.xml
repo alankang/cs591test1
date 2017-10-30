@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cs591test1</string>
+    <string name="facebook_app_id">164269907496501</string>
+    <string name="fb_login_protocol_scheme">fb164269907496501</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>
